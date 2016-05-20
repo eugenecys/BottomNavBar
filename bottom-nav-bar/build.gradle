@@ -10,11 +10,14 @@ ext {
     artifact = 'bottom-nav-bar'
 
     libraryDescription = 'A navigation bar for the bottom screen'
+    libraryVersion = '0.1'
 
     siteUrl = 'https://github.com/eugenecys/BottomNavBar'
     gitUrl = 'https://github.com/eugenecys/BottomNavBar.git'
 
     developerId = 'eugenecys'
+    developerName = 'Eugene Chiong'
+    developerEmail = 'eugenecys@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
